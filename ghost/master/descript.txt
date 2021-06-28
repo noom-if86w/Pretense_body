@@ -1,0 +1,34 @@
+charset,Shift_JIS
+name,電子世界の虚像
+type,ghost
+craftman,NOOM.lF86w
+craftmanw,逆月 ◆NOOM.lF86w
+craftmanurl,https://twitter.com/Noom_if86w
+readme,readme.txt
+sakura.name,エルベルト＝シウェル
+sakura.name2,エルト
+sakura.seriko.defaultsurface,0
+kero.name,via
+kero.seriko.defaultsurface,10
+balloon.defaultsurface,0
+seriko.alignmenttodesktop,bottom
+sakura.seriko.alignmenttodesktop,bottom
+kero.seriko.alignmenttodesktop,bottom
+sstp.allowunspecifiedsend,1
+sstp.allowcommunicate,1
+sstp.alwaystranslate,0
+name.allowoverrid,1
+shiori.cache,1
+shiori.encoding,0
+don't need onmousemove,0
+don't need bind,0
+don't need seriko talk,0
+balloon.dontmove,False
+shiori,satori.dll
+
+sakura.defaultx,200
+sakura.balloon.offsetx,120
+sakura.balloon.offsety,100
+
+
+icon,Prebo.ico

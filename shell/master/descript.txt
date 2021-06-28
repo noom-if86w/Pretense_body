@@ -1,0 +1,8 @@
+charset,Shift_JIS
+craftman,mir hanon
+craftmanw,‰H‰¹ƒ~[ƒ‹
+craftmanurl,https://twitter.com/mirhanon
+id,master
+name,master
+type,shell
+seriko.use_self_alpha,1

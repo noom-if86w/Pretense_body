@@ -1,0 +1,5 @@
+charset, Shift_JIS
+name,“dq¢ŠE‚Ì‹•‘œ
+type,ghost
+directory,Pretense_body
+refresh,0
