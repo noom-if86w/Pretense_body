@@ -1,14 +1,13 @@
 charset,Shift_JIS
 name,電子世界の虚像
 type,ghost
-craftman,NOOM.lF86w
-craftmanw,逆月 ◆NOOM.lF86w
-craftmanurl,https://twitter.com/Noom_if86w
+craftman,NOOW
+craftmanw,逆月
 readme,readme.txt
 sakura.name,エルベルト＝シウェル
 sakura.name2,エルト
 sakura.seriko.defaultsurface,0
-kero.name,via
+kero.name,
 kero.seriko.defaultsurface,10
 balloon.defaultsurface,0
 seriko.alignmenttodesktop,bottom

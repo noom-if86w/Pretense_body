@@ -1,38 +1,59 @@
-リソース
-
-キャプションなどはこちらを参照のこと
-http://disc2.s56.xrea.com/manual/list_shiori_resource.htm
-
-homeurlはdic_network参照
-以下は里々でのよくあるusernameの設定とportal/recommend例
-
-
-
-＃sstpなどで%usernameが指定されたときに必要
-
-＠username
-（ユーザ名）
-
-
-
-＃captionとvisibleの指定
+shiori互換dll『里々（さとり）』用辞書 
+　 
+　メニューのボタン名とか。 
+　ネットワーク更新の際のデータ置き場とか。 
+　おすすめ／ポータルなURLの一覧とか。 
 
 ＠recommendrootbutton.caption
-――――――
+関連リンク(&P)
 
+＊sakura.recommendsites
+作者ツイッター
+https://twitter.com/Noom_if86w
+：（０１）僕……というか、僕のような分体がいるうちの一つだね。僕よりは大元に近いけど。
 
-
-＃１行目がサイト名
-＃２行目がジャンプ先URL
-＃３行目がバナーURL（省略可）
-＃４行目以降はジャンプ時に表示される会話文（省略可）
-＃上から順に表示されるのでurlの記載辞書はひとつにまとめたほうが無難
-＃sakura.recommendsites,kero.recommendsitesも同様に記述
-
+＠portalrootbutton.caption
+関連リンク(&R)
 
 ＊sakura.portalsites
-ゴーストキット
-http://sgmh.sakura.ne.jp/tcg/kit/
-http://sgmh.sakura.ne.jp/tcg/kit/banner.png
-：配布元
+
+
+＠updatebutton.caption
+本体に接続(&U)
+
+
+＠biffbutton.visible
+0
+
+＠vanishbutton.caption
+削除する(&F)
+
+＠readmebutton.caption
+読み取るもの(&R)
+
+＠vanishbutton.visible
+1 
+＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
+
+
+＠homeurl
+https://raw.githubusercontent.com/noom-if86w/Pretense_body/master/
+
+＠ghostrootbutton.caption
+交代する
+
+＠callghostrootbutton.caption
+ゴーストを呼ぶ
+
+＠hidebutton.caption
+裏に下がれ(&I)
+
+＠username
+（ユーザ名） 
+
+
+
+
+
+
 
