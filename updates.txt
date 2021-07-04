@@ -1,7 +1,7 @@
 file,delete.txte32475fe7405cd8164b6e5471867696asize=1228
 file,developer_options.txt5a5d5bbdfed442d7ba5f2c4ea5792023size=1254
 file,install.txt7af2ec9794ab8dc16a0218772b1c05e1size=89
-file,readme.txtbd2d25fe9db5df9e3fa952fb9758ec41size=3265
+file,readme.txt5e9b80c52835f321a5b83a3628e1e3acsize=3371
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0
 file,ghost/master/descript.txt9828a1d664cde53d50a51cc55567b2dasize=717
 file,ghost/master/dicAnchor.txtd8eaad0cf0f39da97aeaab7e4f8858f9size=4
