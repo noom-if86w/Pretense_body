@@ -10,7 +10,14 @@ shiori互換dll『里々（さとり）』用辞書
 ＊sakura.recommendsites
 作者ツイッター
 https://twitter.com/Noom_if86w
-：（０１）僕……というか、僕のような分体がいるうちの一つだね。僕よりは大元に近いけど。
+
+：（０１）僕……というか、僕のような分体がいるうちの一つだね。（００）この僕よりは大元に近い方の分体だけど。
+
+＊sakura.recommendsites
+作者ブログ（interrogacormeum）
+http://cormeum.kagome-kagome.com/
+
+：（０１）何か困った事があれば、ここのコメント欄に書き込むなりすると良い……らしい。（００）結局、僕もプログラムという劣化したものに落とし込まれた存在だから、そういうのに依存しちゃうんだよね。
 
 ＠portalrootbutton.caption
 関連リンク(&R)
