@@ -1,5 +1,5 @@
 delete.txtb994afd6a0b4bfbe54bbb00865800fe4size=2768
-developer_options.txt6f3f388ee0816f30af1fc62c4cf4c830size=1303
+developer_options.txt4f2691f71bf77302f49778be25069284size=1403
 install.txt7af2ec9794ab8dc16a0218772b1c05e1size=89
 readme.txt5c6e4a00303020341803014ab30350bcsize=3312
 ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0
@@ -27,8 +27,6 @@ ghost/master/satolist.dll1da8aeaddbdd064ba9a9c1eb40275adcsize=292352
 ghost/master/satori.dll941bf8b620352224c62cc8079e21c58dsize=684032
 ghost/master/satori_conf.txt010789bbbbd4244eb945144841802e98size=1128
 ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
-ghost/master/satori_savebackup.sat17591e1967381b1c557879f43dc462easize=1004
-ghost/master/satori_savedata.satf79ff5920900994475006052e37d0b21size=1001
 ghost/master/PictureResource/Earth.pnge85624defc5cd1bfed502eba97cd4e2fsize=248
 ghost/master/PictureResource/Fire.png443915c07ab80108c68a959b46691cd5size=243
 ghost/master/PictureResource/Water.png00cde84505e1345eaf7ee5ea2b6a0d5dsize=250

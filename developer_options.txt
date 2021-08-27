@@ -27,3 +27,5 @@ shell/master/·•ªÀ•W.txt,nonar,noupdate
 .gitignore,nonar,noupdate
 .gitattributes,nonar,noupdate
 .git/,nonar,noupdate
+ghost/master/satori_savedata.sat,nonar,noupdate
+ghost/master/satori_savebackup.sat,nonar,noupdate
