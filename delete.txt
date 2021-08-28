@@ -69,3 +69,4 @@ ghost\master\PictureResource\Taurus.png
 ghost\master\PictureResource\Uranus.png
 ghost\master\PictureResource\Venus.png
 ghost\master\PictureResource\Virgo.png
+ghost\master\dic_othershell.txt

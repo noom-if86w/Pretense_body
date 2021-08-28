@@ -1,5 +1,5 @@
-file,delete.txtb994afd6a0b4bfbe54bbb00865800fe4size=2768
-file,developer_options.txt4f2691f71bf77302f49778be25069284size=1403
+file,delete.txt9f6076b21411440d5e3772c521e1c45dsize=2801
+file,developer_options.txt3d5d55332c8434903b481d35dfeeb6edsize=1451
 file,install.txt7af2ec9794ab8dc16a0218772b1c05e1size=89
 file,readme.txt5c6e4a00303020341803014ab30350bcsize=3312
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0
@@ -12,7 +12,6 @@ file,ghost/master/dic_develop.txta59d9340f22f76acbc5b8e3be1b1cc1bsize=434
 file,ghost/master/dic_keypress.txt8c020842fe35019464451b66dc8087b8size=288
 file,ghost/master/dic_menu.txt86d1865ec2053356e4c09fd578f9e5d1size=27188
 file,ghost/master/dic_network.txt22b14f43fcc1f10c80ab910e84f88736size=6976
-file,ghost/master/dic_othershell.txt46c7e451bcd2b8c8a4b3f4fd06b287c2size=3968
 file,ghost/master/dic_resource.txt345a69f6fd7fd83f4f3a86641c862d39size=1282
 file,ghost/master/dic_sawari.txt400d3ee440c39b5e74f88591b4721ab9size=1069
 file,ghost/master/dic_system.txt0f2b9bb0a5652277c4db390ad020901esize=4215
