@@ -13,6 +13,9 @@ ghost\master\editor\pthreadVC2.dll
 ghost\master\editor\SQLite3.dll
 ghost\master\editor\ssleay32.dll
 ghost\master\editor\WebKit.dll
+ghost\master\dic_othershell.txt
+ghost\master\dic_database.txt
+ghost\master\dic_develop.txt
 ghost\master\editor\manual.pdf
 ghost\master\dic_satolist_debug.txt
 ghost\master\editor\data\CFLite.dll
@@ -69,4 +72,3 @@ ghost\master\PictureResource\Taurus.png
 ghost\master\PictureResource\Uranus.png
 ghost\master\PictureResource\Venus.png
 ghost\master\PictureResource\Virgo.png
-ghost\master\dic_othershell.txt
