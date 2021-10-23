@@ -16,6 +16,7 @@ ghost\master\editor\WebKit.dll
 ghost\master\dic_othershell.txt
 ghost\master\dic_database.txt
 ghost\master\dic_develop.txt
+ghost\master\satolist.dll
 ghost\master\editor\manual.pdf
 ghost\master\dic_satolist_debug.txt
 ghost\master\editor\data\CFLite.dll
@@ -72,3 +73,5 @@ ghost\master\PictureResource\Taurus.png
 ghost\master\PictureResource\Uranus.png
 ghost\master\PictureResource\Venus.png
 ghost\master\PictureResource\Virgo.png
+ghost\master\satolist.dll
+ghost\master\satorite.exe
