@@ -35,4 +35,5 @@ ghost/master/dic_develop.txt,nonar,noupdate
 ghost/master/satolist.dll,nonar,noupdate
 ghost/master/satolist.dll,nonar,noupdate
 ghost/master/satorite.exe,nonar,noupdate
+shell/2021denshi45/,nonar,noupdate
 

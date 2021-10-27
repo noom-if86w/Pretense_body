@@ -127,7 +127,7 @@
 ：（００）……エラーかな？
 （０１）僕にエラーがあるとは考えたくないけれど、劣化しているからね……。
 ＊OnGhostCalling
-＞OnGhostCallComplete「（R0）」
+＃＞OnGhostCallComplete「（R0）」
 ：（００）（Ｒ０）を呼んでくるね。
 
 ＃別のゴーストを呼ぶときに発生するイベントです。
