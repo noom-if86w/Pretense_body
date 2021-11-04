@@ -795,10 +795,53 @@ nh「Feoh / Fehu」。意味は富、品物。もしくは富、獣、家畜。
 あるいは北欧神話に描かれる「Freyr / フレイル」。
 nhおよそ財産、というような意味を持つ。（０１）当時は家畜も財産という扱いのようだね、……（００）いや、今もかな。
 
-＃Ur,3,Thorn,4,Ansur,5,Rad,6,Ken,7,Geofu,8,Wynn,9,Hagal,10,Nied,11,Is,12,Jara,13,Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
-＃UrR,ThornR,AnsurR,RadR,KenR,WynnR,NiedR,PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Ur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\UrR.png,inline]
+nh「Ur / Uruz」。意味は古代ヨーロッパ野牛、原初。
+始まりを示すものとして解釈されることが多いかな。（０１）あるいは、荒れ狂う牛のように付き進め……といった所か。（００）分かりやすいルーンだとは思う。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Thorn.png,inline]\_l[140,@1]\_b[\PictureResource\rune\ThornR.png,inline]
+nh「\_b[\PictureResource\rune\Chara_xa.png,inline]orn / \_b[\PictureResource\rune\Chara_t.png,inline]urisaz」。意味は棘、針、茨。もしくは巨人、大男、妖精。
+現状、動きにくい状態である事を示す事が多いかな。（０１）落ち着く時間を取るべき、というかのような。
+
+＃Thorn,4,Ansur,5,Rad,6,Ken,7,Geofu,8,Wynn,9,Hagal,10,Nied,11,Is,12,Jara,13,Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
+＃ThornR,AnsurR,RadR,KenR,WynnR,NiedR,PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
 ＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\UrR.png,inline]
+
+＃＃＃インラインイベント
+＊トーク追加用メモメモ
+アングロ・フリージア型
+U：Ur/古代ヨーロッパ野牛//古代ヨーロッパ野牛・原初
+T：\_b[\PictureResource\rune\Chara_xa.png,inline]orn/棘、針、いばら
+o：os/アース神族　ass/is
+r：rad/（馬に）乗る事。ritt。（私見：英語の「ride」と関連？）
+c：cen/松明。
+g：gyfu/贈物。
+w：wyn/喜び
+h：h\_b[\PictureResource\rune\Chara_ae.png,inline]gl/霰・雹
+n：nyd/必要・強制
+i：is/氷
+j：ger（発音year/eng）/年
+i：eoh もしくはih。イチイの木
+p：peor\_b[\PictureResource\rune\Chara_xa.png,inline]/意味は不明
+x：eolhx/おそらく大角鹿。
+s：sigel/太陽
+ｔ：tir/アース神族のティール
+b：beorc/白樺
+e：eh/馬
+m：man/人間
+l/lagu/水
+ng/lng/神もしくは英雄の名前
+d/d\_b[\PictureResource\rune\Chara_ae.png,inline]g/日
+oe/\_b[\PictureResource\rune\Chara_oe.png,inline]\_b[\PictureResource\rune\Chara_t.png,inline]il e\_b[\PictureResource\rune\Chara_t.png,inline]el/相続地・所有地・地所
+a/ac/オークの木
+ae/\_b[\PictureResource\rune\Chara_ae.png,inline]sc/トネリコの木
+y/yr/おそらく弓、装身具
+ea/ear/おそらく土、地面の穴、砂利
 ＊らんだむとーくせんせいじゅつ
 ＃＊
 ＃：（００）\_b[\PictureResource\Sign\Sun.png,inline] 
