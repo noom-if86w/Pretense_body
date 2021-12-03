@@ -1,8 +1,9 @@
 charset,Shift_JIS
 name,電子世界の虚像
 type,ghost
-craftman,NOOW
-craftmanw,逆月
+craftman,NOOM_lf86w
+craftmanw,逆月 ◆NOOM.lf86w
+craftmanurl,http://cormeum.kagome-kagome.com/
 readme,readme.txt
 sakura.name,エルベルト＝シウェル
 sakura.name2,エルト

@@ -24,8 +24,6 @@
 Åî
 
 ÅóSAORI
-fill_desktop,saori/fill_desktop.dll
-fill_red,saori/fill_desktop.dll,255,0,0
 aya,saori/yaya.dll
 floor,saori/yaya.dll,FLOOR
 ceil,saori/yaya.dll,CEIL
