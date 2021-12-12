@@ -1074,11 +1074,10 @@ nh（０１）魚座 / 双魚宮。２月１９日から３月２０日の間。
 （００）女性宮、水、柔軟宮……（０１）共感能力が高く、優しさに溢れるね。（００）相手の側に寄り沿える、という事だ。
 （０１）しかし繊細さが目立ち、共感能力の高さから相手に入れ込みやすい傾向もある。
 
-＃＃＃インラインイベント
-＊
-：\_q\_l[70,@1]\_b[\PictureResource\Sign\Taurus.png,inline]
-
-1,Sun,2,Moon,3,Mercury,4,Venus,5,Mars,6,Jupiter,7,Satum,8,Uranus,9,Neptune,10,Pluto,11,Dragonφhead,12,Dragontail）
+＃＊
+＃：\_q\_l[70,@1]\_b[\PictureResource\Sign\Taurus.png,inline]
+＃
+＃1,Sun,2,Moon,3,Mercury,4,Venus,5,Mars,6,Jupiter,7,Satum,8,Uranus,9,Neptune,10,Pluto,11,Dragonφhead,12,Dragontail
 ＊らんだむとーくかぎ
 ＃あんまりにもトークが多すぎて（さとりすと上で）分離した。
 ＃＃＃インラインイベント
