@@ -117,7 +117,7 @@ surface.append0-13
 	collisionex0,Head,polygon,166,89,207,44,267,44,310,89
 	collisionex1,Righthand,polygon,157,413,128,430,156,462,178,445
 	collisionex2,Lefthand,polygon,353,438,331,449,342,493,359,499,372,497,371,472
-	collisionex3,Button,247,232,262,245
+	collisionex3,Button,ellipse,248,232,268,251
 	//collision3,167,362,310,408,Underbody
 }
 
