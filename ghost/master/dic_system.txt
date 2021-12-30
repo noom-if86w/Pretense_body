@@ -67,7 +67,7 @@ http://disc2.s56.xrea.com/manual/list_shiori_event.htm
 （０１）まあ、僕はここでのんびりしているだけだけれどね、どれにせよ。
 
 ＃＃＃インラインイベント
-＊電子世界の虚像をインストール
+＊OnInstallComplete「電子世界の虚像」
 ：（０６）…………。
 （１０）「さっきまでの僕」に納得いかなかったのかな？　何度開き直しても「僕」は「僕」にしかならないんだけれど。
 ＊OnInstallFailure
