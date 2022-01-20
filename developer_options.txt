@@ -41,4 +41,3 @@ ghost/master/satori_savedata 2.sat,nonar,noupdate
 ghost/master/satori_savedata.sat,nonar,noupdate
 ghost/master/satori_savebackup 2.sat,nonar,noupdate
 ghost/master/satori_savebackup (2) 2.sat,nonar,noupdate
-md5buildignore.txt,nonar,noupdate
