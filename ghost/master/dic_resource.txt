@@ -27,22 +27,11 @@ https://forms.gle/BBdfsSWcLpBGTyAo6
 
 
 ＠portalrootbutton.caption
-魔術文書関係お勧め
+――――
 
 ＊sakura.portalsites
-I∴O∴S∴公式サイト
-http://akibba.no.coocan.jp/index.html
 
-：（００）（ユーザ名）のいる辺りで活動している魔術結社だ。
-（０１）参入……を考えるまでもなくとも、（００）この団体が公開
-している「第一講義文書」は非常に有益だ。
-（０１）一度目を通してみる事をお勧めするよ。
 
-＊sakura.portalsites
-魔術書アーカイブス（英語）
-http://www.hermetics.org/library/Library_Grimoires.html
-
-：（００）君の住んでいる国とは別の国の言語の文書にはなるけど……（０１）何かの手段で翻訳できるならそれを用いてもいいだろう。（００）一応お勧めはしておくよ。
 ＠updatebutton.caption
 本体に接続(&U)
 
