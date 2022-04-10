@@ -18,6 +18,7 @@ ghost\master\dic_database.txt
 ghost\master\dic_develop.txt
 ghost\master\satolist.dll
 ghost\master\satorite.exe
+ghost\master\dic_change.txt
 ghost\master\editor\manual.pdf
 ghost\master\dic_satolist_debug.txt
 ghost\master\editor\data\CFLite.dll
@@ -75,3 +76,4 @@ ghost\master\PictureResource\Uranus.png
 ghost\master\PictureResource\Venus.png
 ghost\master\PictureResource\Virgo.png
 ghost\master\PictureResource\Tree_of_life.png
+ghost\master\dic_vanish.txt
