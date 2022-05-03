@@ -42,3 +42,4 @@ ghost/master/satori_savedata.sat,nonar,noupdate
 ghost/master/satori_savebackup 2.sat,nonar,noupdate
 ghost/master/satori_savebackup (2) 2.sat,nonar,noupdate
 ghost/master/dic_change.txt,nonar,noupdate
+ghost/master/PictureResource/stamp.png,nonar,noupdate
