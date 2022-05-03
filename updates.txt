@@ -23,7 +23,6 @@ file,ghost/master/replace_after.txtd41d8cd98f00b204e9800998ecf8427esize=0
 file,ghost/master/satori.dllb7e3d6a8e33367c24cd64f04446fe99csize=700416
 file,ghost/master/satori_conf.txt143cc450084d90019e593c955cd1b60dsize=1050
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944
-file,ghost/master/satori_savedata (1).satcb3eb8b269ee7302eaf954e45196315asize=1306
 file,ghost/master/PictureResource/Earth.pnge85624defc5cd1bfed502eba97cd4e2fsize=248
 file,ghost/master/PictureResource/Fire.png443915c07ab80108c68a959b46691cd5size=243
 file,ghost/master/PictureResource/Water.png00cde84505e1345eaf7ee5ea2b6a0d5dsize=250
