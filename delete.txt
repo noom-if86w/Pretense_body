@@ -77,3 +77,4 @@ ghost\master\PictureResource\Venus.png
 ghost\master\PictureResource\Virgo.png
 ghost\master\PictureResource\Tree_of_life.png
 ghost\master\dic_vanish.txt
+ghost\master\dic_keypress.txt
