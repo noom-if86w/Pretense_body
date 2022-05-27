@@ -66,13 +66,16 @@
 ランダムトーク１個削除（見直しにつき）
 （他φ、辞書内整理）
 
+・ver1.45　22/05/27
+ランダムトーク１個追加
+条件付きランダムトーク１個追加
 
 \![*]\q[更新内容の詳細を確認する(URLが開きます),2204詳細確認]
 ＞更新履歴一覧2022
 
 ＃＃＃インラインイベント
 ＊2205詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/15/]
+\j[https://cormeum.kagome-kagome.com/Entry/17/]
 ＞更新履歴
 
 
@@ -125,7 +128,7 @@
 
 ＃＃＃インラインイベント
 ＊2204詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/15/]
+\j[https://cormeum.kagome-kagome.com/Entry/16/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
