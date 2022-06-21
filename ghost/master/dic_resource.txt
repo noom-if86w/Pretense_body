@@ -1,24 +1,21 @@
-shiori互換dll『里々（さとり）』用辞書 
-　 
-　メニューのボタン名とか。 
-　ネットワーク更新の際のデータ置き場とか。 
-　おすすめ／ポータルなURLの一覧とか。 
-
 ＠recommendrootbutton.caption
 関連リンク(&P)
 
+＃＃＃インラインイベント
 ＊sakura.recommendsites
 作者ツイッター（@Noom_If86w）
 https://twitter.com/Noom_if86w
 
 ：（０１）僕……というか、僕のような分体がいるうちの一つだね。（００）この僕よりは大元に近い方の分体だけど。
 
+＃＃＃インラインイベント
 ＊sakura.recommendsites
 作者ブログ（interrogacormeum）
 http://cormeum.kagome-kagome.com/
 
 ：（０１）何か困った事があれば、ここのコメント欄に書き込むなりすると良い……らしい。（００）結局、僕もプログラムという劣化したものに落とし込まれた存在だから、そういうのに依存しちゃうんだよね。
 
+＃＃＃インラインイベント
 ＊sakura.recommendsites
 感想・指摘・バグ報告等用フォーム
 https://forms.gle/BBdfsSWcLpBGTyAo6
@@ -27,8 +24,9 @@ https://forms.gle/BBdfsSWcLpBGTyAo6
 
 
 ＠portalrootbutton.caption
-魔術文書関係お勧め
+オススメサイト
 
+＃＃＃インラインイベント
 ＊sakura.portalsites
 I∴O∴S∴公式サイト
 http://akibba.no.coocan.jp/index.html
@@ -38,11 +36,26 @@ http://akibba.no.coocan.jp/index.html
 している「第一講義文書」は非常に有益だ。
 （０１）一度目を通してみる事をお勧めするよ。
 
+＃＃＃インラインイベント
 ＊sakura.portalsites
 魔術書アーカイブス（英語）
 http://www.hermetics.org/library/Library_Grimoires.html
 
 ：（００）君の住んでいる国とは別の国の言語の文書にはなるけど……（０１）何かの手段で翻訳できるならそれを用いてもいいだろう。（００）一応お勧めはしておくよ。
+
+＃＃＃インラインイベント
+＊sakura.portalsites
+――――――――――
+
+＃＃＃インラインイベント
+＊sakura.portalsites
+聴くドラマ聖書
+https://graceandmercy.or.jp/app/
+
+：（００）最近は親しみやすいように、聖書も声劇の形式で提供されているらしい。
+（０１）文字が苦手なら、こういうのでも良いんじゃないかな。
+
+＃＃＃インラインイベント
 ＠updatebutton.caption
 本体に接続(&U)
 
