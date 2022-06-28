@@ -178,6 +178,13 @@ nh（０８）あるいは、僕という分体が本体から見捨てられてしまえば、それまでなのだけ
 ＄OnGhostChanged起動へ分岐	０
 ＄回想	０
 ＄NOTIFYの自動保存	有効
+（nop、（split、（sunset、（sprintf、%04d%02d%02d、（現在年）、（現在月）、（現在日）））、,））φ
+（set,日の出時,（sprintf,%d,（S0）））φ
+（set,日の出分,（sprintf,%d,（S1）））φ
+（set,日の出秒,（sprintf,%d,（S2）））φ
+（set,日没時,（sprintf,%d,（S3）））φ
+（set,日没分,（sprintf,%d,（S4）））φ
+（set,日没秒,（sprintf,%d,（S5）））
 ＞記憶混濁処理	（起動回数イベント１を見た）＝＝１
 ＞季節処理
 

@@ -24,19 +24,5 @@
 Åî
 
 ÅóSAORI
-aya,saori/yaya.dll
-floor,saori/yaya.dll,FLOOR
-ceil,saori/yaya.dll,CEIL
-round,saori/yaya.dll,ROUND
-sin,saori/yaya.dll,SIN
-cos,saori/yaya.dll,COS
-tan,saori/yaya.dll,TAN
-log,saori/yaya.dll,LOG
-log10,saori/yaya.dll,LOG10
-pow,saori/yaya.dll,POW
-sqrt,saori/yaya.dll,SQRT
-asin,saori/yaya.dll,ASIN
-acos,saori/yaya.dll,ACOS
-atan,saori/yaya.dll,ATAN
-
+sunset,saori/sunset.exe
 

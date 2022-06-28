@@ -78,3 +78,8 @@ ghost\master\PictureResource\Virgo.png
 ghost\master\PictureResource\Tree_of_life.png
 ghost\master\dic_vanish.txt
 ghost\master\dic_keypress.txt
+ghost\master\saori\builtins.aym
+ghost\master\saori\ssu.dll
+ghost\master\saori\yaya.dll
+ghost\master\saori\yaya.txt
+ghost\master\saori\ayasaori.aym
