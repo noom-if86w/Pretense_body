@@ -1662,6 +1662,41 @@ nh（００）ああいった術を行使して、それが己の力だと過信しないようにね。
 
 ＃＃＃インラインイベント
 ＊
+：（０１）一時間ごとに支配している惑星が変わる……（００）という話はしたと思うのだけど。
+これに関しては、天使もそうらしい。
+nh（０１）今なら（現在曜日）曜日の（現在時）時だから……
+（００）「（天使時間）」が支配している、と、そういう事になる。
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝日
+（switch,（calc,（現在時）%7）,0,Anael,1,Raphael,2,Gabriel,3,Cassiel,4,Sachiel,5,Zamael,6,Michael）
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝月
+（switch,（calc,（現在時）%7）,0,Cassiel,1,Sachiel,2,Zamael,3,Michael,4,Anael,5,Raphael,6,Gabriel）
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝火
+（switch,（calc,（現在時）%7）,0,Anael,1,Raphael,2,Gabriel,3,Cassiel,4,Sachiel,5,Zamael,6,Michael）
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝水
+（switch,（calc,（現在時）%7）,0,Gabriel,1,Cassiel,2,Sachiel,3,Zamael,4,Michael,5,Anael,6,Raphael）
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝木
+（switch,（calc,（現在時）%7）,0,Zamael,1,Michael,2,Anael,3,Raphael,4,Gabriel,5,Cassiel,6,Sachiel）
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝金
+（switch,（calc,（現在時）%7）,0,Raphael,1,Gabriel,2,Cassiel,3,Sachiel,4,Zamael,5,Michael,6,Anael）
+
+＃＃＃インラインイベント
+＠天使時間	（現在曜日）＝＝土
+（switch,（calc,（現在時）%7）,0,Sachiel,1,Zamael,2,Michael,3,Anael,4,Raphael,5,Gabriel,6,Cassiel,）
+
+＃＃＃インラインイベント
+＊
 ：（００）惑星時間。（０１）惑星ごとに支配している時間が決まっているんだけれど、それの事だね。
 ソロモン王の大いなる鍵に記されている護符、ペンタクルというのは、その惑星時間に合わせて作る必要がある。
 （００）基本的には、日の出もしくは日の入りから一時間刻みで時間を支配する惑星は変わる。
