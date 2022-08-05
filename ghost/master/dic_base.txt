@@ -181,11 +181,8 @@ nh（０８）あるいは、僕という分体が本体から見捨てられてしまえば、それまでなのだけ
 （nop､（split､（sunset､（sprintf､%04d%02d%02d､（現在年）､（現在月）､（現在日））､（ユーザ緯度）､（ユーザ経度））､,））
 （set,日の出時,（sprintf,%d,（S0）））
 （set,日の出分,（sprintf,%d,（S1）））
-（set,日没時,（sprintf,%d,（S3）））
-（set,日没分,（sprintf,%d,（S4）））
-（nop､（split､（sunset､（sprintf､%04d%02d%02d､（現在年）､（計算前日月）､（計算前日日））､（ユーザ緯度）､（ユーザ経度））､,））
-（set,前日日没時,（sprintf,%d,（S3）））
-（set,前日日没分,（sprintf,%d,（S4）））
+（set,日の入時,（sprintf,%d,（S3）））
+（set,日の入分,（sprintf,%d,（S4）））
 ＞記憶混濁処理	（起動回数イベント１を見た）＝＝１
 ＞季節処理
 

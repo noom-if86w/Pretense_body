@@ -1601,15 +1601,36 @@ nh「Ur / Uruz」。意味は古代ヨーロッパ野牛、原初。
 nh「\_b[\PictureResource\rune\Chara_xa.png,inline]orn / \_b[\PictureResource\rune\Chara_t.png,inline]urisaz」。意味は棘、針、茨。もしくは巨人、大男、妖精。
 現状、動きにくい状態である事を示す事が多いかな。（０１）落ち着く時間を取るべき、というかのような。
 
-＃Ansur,5,Rad,6,Ken,7,Geofu,8,Wynn,9,Hagal,10,Nied,11,Is,12,Jara,13,Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
-＃AnsurR,RadR,KenR,WynnR,NiedR,PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Ansur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\AnsurR.png,inline]
+nh「As / Ansur」。意味はアース神。
+アース神の中でも、主神たるオーディンの事だと解釈
+される事が多い。（０１）そして、そのオーディンの持つ一面から知識という意味を持つ、と繋げて考えられる。
+nh（００）私見だけど、解釈の幅は広そうかな。オーディンに関わる話は、知識的な面のみではないからね。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Rad.png,inline]\_l[140,@1]\_b[\PictureResource\rune\RadR.png,inline]
+nh「Raidho / Rad」。意味は馬に乗る事、荷車、旅。
+意味から少し解釈を広げるなら、新天地、とも。
+（０１）およそは変化を示すと解釈できるかな。
+nh（００）どうやら英語のRideと語源を共にしているらしく、
+音が似ている。（０１）ちょっと興味深いね。
+
+＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ken.png,inline]\_l[140,@1]\_b[\PictureResource\rune\KenR.png,inline]
+＃nh「Cen」。……一応、意味は松明、という事になる。
+＃（０１）少々説明し難いか。歴史上
+
+＃Ken,7,Geofu,8,Wynn,9,Hagal,10,Nied,11,Is,12,Jara,13,Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
+＃KenR,WynnR,NiedR,PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
 ＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\UrR.png,inline]
 
 ＃＃＃インラインイベント
 ＊トーク追加用メモメモ
 アングロ・フリージア型
-o：os/アース神族　ass/is
 r：rad/（馬に）乗る事。ritt。（私見：英語の「ride」と関連？）
 c：cen/松明。
 g：gyfu/贈物。
