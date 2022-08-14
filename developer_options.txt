@@ -48,3 +48,5 @@ ghost/master/saori/ssu.dll,nonar,noupdate
 ghost/master/saori/yaya.dll,nonar,noupdate
 ghost/master/saori/yaya.txt,nonar,noupdate
 ghost/master/saori/ayasaori.aym,nonar,noupdate
+ghost\master\dic_satolist_debug.txt,nonar,noupdate
+ghost/master/PictureResource/stamp.png,nonar,noupdate
