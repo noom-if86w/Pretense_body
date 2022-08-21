@@ -1,0 +1,4 @@
+（ああ）	\_b[\PictureResource\1.png,inline]\_b[\PictureResource\1.png,inline]
+（あい）	\_b[\PictureResource\1.png,inline]\_b[\PictureResource\1.png,inline,opaque]
+（いあ）	\_b[\PictureResource\1.png,inline,opaque]\_b[\PictureResource\1.png,inline]
+（いい）	\_b[\PictureResource\1.png,inline,opaque]\_b[\PictureResource\1.png,inline,opaque]

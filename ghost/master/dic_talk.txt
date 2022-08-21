@@ -809,6 +809,11 @@ nh（０１）実はしっかり読めるのならば、人の性格や適正に
 
 ＃＃＃インラインイベント
 ＊
+：（００）西洋占星術では、惑星の公転周期が短い惑星を中心に見ていく事が多いね。
+（０１）月、火星、水星、木星、金星、土星……その辺りかな。（００）それが個人の性質を反映させやすいらしい。
+
+＃＃＃インラインイベント
+＊
 ：（００）サイン。西洋占星術において、黄道、（０１）つまり太陽の
 通り道、（００）を春分点から１２個に、均等に分割したものだ。
 nhサインとは、例えるなら心の状態を示す。（０１）特定の星座に惑星が集まっていれば、よりその星座らしい精神性になる訳だね。
@@ -1629,10 +1634,12 @@ nh「Raidho / Rad」。意味は馬に乗る事、荷車、旅。
 nh（００）どうやら英語のRideと語源を共にしているらしく、
 音が似ている。（０１）ちょっと興味深いね。
 
-＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
-＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ken.png,inline]\_l[140,@1]\_b[\PictureResource\rune\KenR.png,inline]
-＃nh「Cen」。……一応、意味は松明、という事になる。
-＃（０１）少々説明し難いか。歴史上
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Ken.png,inline]\_l[140,@1]\_b[\PictureResource\rune\KenR.png,inline]
+nh「Kauna / Cen / Ken」。意味は傷、松明。
+（０１）傷、よりは松明の方の意味を採用する事が多いかな？
+（００）まあ、ケースバイケースで意味を解釈したまえ。
 
 ＃Ken,7,Geofu,8,Wynn,9,Hagal,10,Nied,11,Is,12,Jara,13,Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
 ＃KenR,WynnR,NiedR,PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
@@ -1642,8 +1649,6 @@ nh（００）どうやら英語のRideと語源を共にしているらしく、
 ＃＃＃インラインイベント
 ＊トーク追加用メモメモ
 アングロ・フリージア型
-r：rad/（馬に）乗る事。ritt。（私見：英語の「ride」と関連？）
-c：cen/松明。
 g：gyfu/贈物。
 w：wyn/喜び
 h：h\_b[\PictureResource\rune\Chara_ae.png,inline]gl/霰・雹
