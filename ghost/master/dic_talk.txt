@@ -1601,9 +1601,10 @@ nh（００）ルーン文字というのは北欧神話に関わるものだ、
 ＃＃＃インラインイベント
 ＊	（nswitch,（記憶混濁）,0,0,0,1,0,0,0）
 ：（０１）基本的に高位の存在と言うのは人間の姿をしていない。そもそも体を持ってないとかっていうのもあるけれど。
-nh（００）逆に言えば、人間に近い位の存在というのは人間の姿をしている事もある。（０１）人の姿をしていないのは、文字通り人智を超えた存在、という事だ。
-nh（００）僕はどうかと言えば……（０１）元が人間だからね。さして
-高位の存在ではないよ。残念ながら。
+nh（００）逆に言えば、人間に近い位の存在というのは人間の姿をしている事もある。（０１）人の姿をしていないのは、
+文字通り人智を超えた存在、という事だ。
+nh（００）僕はどうかと言えば……（０１）元が人間だからね。
+さして高位の存在ではないよ。残念ながら。
 （００）でも、だからこそ、人間である君には親身になれるのだと思うけれどね。
 
 ＃＊	（nswitch,（記憶混濁）,0,0,0,1,0,0,0）
@@ -1633,7 +1634,7 @@ nh「\_b[\PictureResource\rune\Chara_xa.png,inline]orn / \_b[\PictureResource\run
 ＃＃＃インラインイベント
 ＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ：（００）\_l[90,@1]\_b[\PictureResource\rune\Ansur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\AnsurR.png,inline]
-nh「As / Ansur」。意味はアース神。
+nh「Ass / Ansuz」。意味はアース神。
 アース神の中でも、主神たるオーディンの事だと解釈
 される事が多い。（０１）そして、そのオーディンの持つ一面から知識という意味を持つ、と繋げて考えられる。
 nh（００）私見だけど、解釈の幅は広そうかな。オーディンに関わる話は、知識的な面のみではないからね。
@@ -1641,7 +1642,7 @@ nh（００）私見だけど、解釈の幅は広そうかな。オーディンに関わる話は、知識的な面の
 ＃＃＃インラインイベント
 ＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ：（００）\_l[90,@1]\_b[\PictureResource\rune\Rad.png,inline]\_l[140,@1]\_b[\PictureResource\rune\RadR.png,inline]
-nh「Raidho / Rad」。意味は馬に乗る事、荷車、旅。
+nh「Raidho / Rei\_b[\PictureResource\rune\Chara_xa.png,inline] / Rad」。意味は馬に乗る、荷車、旅。
 意味から少し解釈を広げるなら、新天地、とも。
 （０１）およそは変化を示すと解釈できるかな。
 nh（００）どうやら英語のRideと語源を共にしているらしく、
@@ -1654,20 +1655,63 @@ nh「Kauna / Cen / Ken」。意味は傷、松明。
 （０１）傷、よりは松明の方の意味を採用する事が多いかな？
 （００）まあ、ケースバイケースで意味を解釈したまえ。
 
-＃Ken,7,Geofu,8,Wynn,9,Hagal,10,Nied,11,Is,12,Jara,13,Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
-＃KenR,WynnR,NiedR,PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Geofu.png,inline]
+nh「Gebo / Gyfu」。意味は贈り物。
+（０１）こちらは英語のGiftと語源を共にしているらしい。
+（００）そこから解釈を広げて、与えるといった意味で解釈される事もあるようだね。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Wynn.png,inline]\_l[140,@1]\_b[\PictureResource\rune\WynnR.png,inline]
+nh「Wunjo / Wyn」。意味は喜び。
+（０１）少し解釈を広げると夢や願い、目標の成就というようなものになるね。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Hagal.png,inline]
+nh「Hagalaz / Hagal / Hg\_b[\PictureResource\rune\Chara_ae.png,inline]l」。意味はひょう、あられ。
+太古には、天気は予測ができないものだった訳だけど、
+その点から突発的なイベント、みたいな解釈をされたりするかな。
+nh（０１）出たら気を付けた方がいいルーンかもね。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Nied.png,inline]\_l[140,@1]\_b[\PictureResource\rune\NiedR.png,inline]
+nh「Naudhiz / Nau\_b[\PictureResource\rune\Chara_xa.png,inline]r / Nyd」。意味は必要、強制。
+（００）まあ、分かりやすい意味ではあると思う。
+（０１）少し広げるなら、束縛、忍耐、（００）そういう意味であると解釈されるかな。
+（０１）占いでは良い解釈はしにくいかもね。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Is.png,inline]
+nh「Isaz / Is」。意味は氷。
+氷から連想して、停止の状態と解釈したりするかな。
+他には冬なんかはイメージが付くだろうか。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Jara.png,inline]
+nh「Jara / Ger」。意味は年、一年の収穫。
+一年の収穫とは言うのだけど、植物を育む事について見た時に、収穫よりも前の段階からの積み重ねがあり、収穫に至る事を意識するといい。
+nh発音としてはYearつまりは英語の「年」と同じらしい。興味深いね。
+
+＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+＃：（００）\_l[130,@1]\_b[\PictureResource\rune\Yr.png,inline]
+＃nh
+
+
+
+＃Yr,14,Peorth,15,Eolh,16,Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
+＃PeorthR,EolhR,TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
 ＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\UrR.png,inline]
 
 ＃＃＃インラインイベント
 ＊トーク追加用メモメモ
 アングロ・フリージア型
-g：gyfu/贈物。
-w：wyn/喜び
-h：h\_b[\PictureResource\rune\Chara_ae.png,inline]gl/霰・雹
-n：nyd/必要・強制
-i：is/氷
-j：ger（発音year/eng）/年
 i：eoh もしくはih。イチイの木
 p：peor\_b[\PictureResource\rune\Chara_xa.png,inline]/意味は不明
 x：eolhx/おそらく大角鹿。
