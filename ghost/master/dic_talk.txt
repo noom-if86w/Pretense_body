@@ -1730,17 +1730,39 @@ nh「Algiz / Eolhx」。意味は大角鹿。
 鹿と聞いても、君には少々馴染みは薄いかもしれない。
 鹿は群れで行動する事から、占いにおいては、仲間というような意味で解釈されたりするようだね。
 
-＃Sigel,17,Tir,18,Beorc,19,Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
-＃TirR,BeorcR,EohR,MannR,LaguR,48,OthelR,）
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Sigel.png,inline]
+nh「Sowilo / Sol / Sigel」。意味は太陽。
+そのまま活力がある状態というような解釈になりやすいかな。
+もしくは、その活力が高まり過ぎて危険な状態とも。
+割と素直に解釈しやすいと思うよ。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Tir.png,inline]\_l[140,@1]\_b[\PictureResource\rune\TirR.png,inline]
+nh「Tiwaz / Tyr」。意味はアース神族のティール。
+このティールという神は、大雑把に言う所の軍神だ。
+それ故に、このルーンもまた、例えば戦いであるとか、あるいは勝利というような解釈がされやすいかな。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Beorc.png,inline]\_l[140,@1]\_b[\PictureResource\rune\BeorcR.png,inline]
+nh「Berkana / Biarkan / 、Beorc」。意味は白樺。
+占い的には、植物から連想するなら成長とかかな。
+（０１）\_b[\PictureResource\rune\Chara_ii.png,inline]hwazとは同じように植物の一種にはなるから、
+意味は似通うんだろうけど……どこのニュアンスが
+違うんだろうか。
+僕としては詳しくなくてね……（００）ごめんね？
+
+＃Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
+＃EohR,MannR,LaguR,48,OthelR,）
 ＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\UrR.png,inline]
 
 ＃＃＃インラインイベント
 ＊トーク追加用メモメモ
 アングロ・フリージア型
-x：eolhx/おそらく大角鹿。
-s：sigel/太陽
-ｔ：tir/アース神族のティール
 b：beorc/白樺
 e：eh/馬
 m：man/人間
