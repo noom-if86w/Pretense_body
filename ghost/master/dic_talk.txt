@@ -1755,6 +1755,14 @@ nh「Berkana / Biarkan / 、Beorc」。意味は白樺。
 違うんだろうか。
 僕としては詳しくなくてね……（００）ごめんね？
 
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Eoh.png,inline]\_l[140,@1]\_b[\PictureResource\rune\EohR.png,inline]
+nh「Ehwaz / Eh」。意味は馬。
+馬は当時においては迅速な移動手段になりうる。
+（０１）その点から、移動の意味を持つ……（００）そこから、状況の変化、というような意味で解釈されたりするかな。
+
+
 ＃Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
 ＃EohR,MannR,LaguR,48,OthelR,）
 ＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
