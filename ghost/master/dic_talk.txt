@@ -325,7 +325,6 @@ nh（０１）……いや、強いて取り上げるなら水晶ぐらいはあっても良いだろう。（００）
 （００）僕にはピンと来ない話なのだけれどね。
 （０１）芸術……音楽や絵、劇。あるいは、詩といったものも。
 （００）ワンフレーズから、線の一本から、一文から。興味が向けば嗜んでみるといい。
-＃あ
 
 ＃＃＃インラインイベント
 ＊
@@ -1770,19 +1769,60 @@ nh「Ehwaz / Eh」。意味は馬。
 馬は当時においては迅速な移動手段になりうる。
 （０１）その点から、移動の意味を持つ……（００）そこから、状況の変化、というような意味で解釈されたりするかな。
 
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Mann.png,inline]\_l[140,@1]\_b[\PictureResource\rune\MannR.png,inline]
+nh「Ma\_b[\PictureResource\rune\Chara_xa.png,inline]r / Man」。意味は人間。
+人間というのは集団で生きる存在だと考えられる。
+そこから、占いでは協力というような解釈をしたりするかな。
 
-＃Eoh,20,Mann,21,Lagu,22,Ing,23,Othel,24,Daeg,25,Wird,
-＃EohR,MannR,LaguR,48,OthelR,）
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Lagu.png,inline]\_l[140,@1]\_b[\PictureResource\rune\LaguR.png,inline]
+nh「Laukr / Laugr /Lagu」。意味は球根、豊穣、あるいは水、小川。
+水は命の源だ。豊穣という意味も、球根というのも、
+生命を形作る大元になりうるかな。
+占いにおいては水の意味が特別取り出される。
+西洋魔術の元素の水と関わるのか、感情という意味も含まれたりするね。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Sigel.png,inline]
+nh「Ingwaz / Ing」。意味は神か、英雄の名前。
+一説によっては北欧神話の神、フレイの別名という話らしい。そのフレイというのは豊穣を司る神になる。
+そこから占いでは豊穣……つまりは豊かさ、実り、
+その辺りの意味で解釈されるかな。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[130,@1]\_b[\PictureResource\rune\Daeg.png,inline]
+nh「Dag / D\_b[\PictureResource\rune\Chara_ae.png,inline]g」。意味は日。
+一説によれば太陽の巡りを示すらしい。つまり日とは太陽の意味ではなく、一日と取れる。
+時間の流れを意識するルーン、という印象かな。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[90,@1]\_b[\PictureResource\rune\Othel.png,inline]\_l[140,@1]\_b[\PictureResource\rune\OthelR.png,inline]
+nh「O\_b[\PictureResource\rune\Chara_t.png,inline]ila / \_b[\PictureResource\rune\Chara_oe.png,inline]\_b[\PictureResource\rune\Chara_t.png,inline]il」。意味は世襲財産、相続地。
+少し解釈を広げると、受け継がれるもの全般……
+物理的なものだけでなく精神的なもの、思想とかね、そういうのもあるかな。
+
+＃＃＃インラインイベント
+＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
+：（００）\_l[0,50]ブランク・ルーン……（０１）ええとね。（００）これは特別で、
+現代で増えたルーンという事になっている。
+（０１）空白、無の概念が当時に無かったのかもしれない。
+（００）事実なのは現代において新しく認識されたルーンであるという事。まあ、要は占い用という感じだね。
+意味としては運命、とか言われたりするよ。
+
+＃Othel,24,Daeg,25,Wird,
+＃48,OthelR,）
 ＃＊	（nswitch,（記憶混濁）,0,0,1,1,0,0,0）
 ＃：（００）\_l[90,@1]\_b[\PictureResource\rune\Ur.png,inline]\_l[140,@1]\_b[\PictureResource\rune\UrR.png,inline]
 
 ＃＃＃インラインイベント
 ＊トーク追加用メモメモ
 アングロ・フリージア型
-b：beorc/白樺
-e：eh/馬
-m：man/人間
-l/lagu/水
 ng/lng/神もしくは英雄の名前
 d/d\_b[\PictureResource\rune\Chara_ae.png,inline]g/日
 oe/\_b[\PictureResource\rune\Chara_oe.png,inline]\_b[\PictureResource\rune\Chara_t.png,inline]il e\_b[\PictureResource\rune\Chara_t.png,inline]el/相続地・所有地・地所
