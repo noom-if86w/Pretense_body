@@ -1,5 +1,5 @@
 file,delete.txt18a082c086f9a2b29f8317dc337c95ebsize=3244
-file,developer_options.txt985d778e84c6d7e96a229f82886418f9size=2356
+file,developer_options.txt5bcd74b5d6a98830954595fb07e9c46dsize=2414
 file,install.txt7af2ec9794ab8dc16a0218772b1c05e1size=89
 file,readme.txta54a1d6051131ec429955a27adf7f924size=3667
 file,ghost/master/characters.inid41d8cd98f00b204e9800998ecf8427esize=0
@@ -11,7 +11,6 @@ file,ghost/master/dic_menu.txt96f908275a42da072128308cda1b9217size=82122
 file,ghost/master/dic_network.txt07a52cd9fb43addc74922d26eae49425size=6984
 file,ghost/master/dic_resource.txt614dc17c98ba0bd9fc2f398dc1e70fe6size=2367
 file,ghost/master/dic_sawari.txt580871819bd85d4275d82820f1740f47size=1453
-file,ghost/master/dic_supple_noomlf86w_WLW.txt8e8192588b74bc515905fe8c5e767787size=31
 file,ghost/master/dic_system.txt5d8bd73a0e2ed3725bc32a455edd17bcsize=15125
 file,ghost/master/dic_talk.txt94f347c108e83d5a1756f9aaf88bddc9size=117093
 file,ghost/master/dic_talkX.txt2c1b39d73d3ad637b76888fbd0ddc846size=6654

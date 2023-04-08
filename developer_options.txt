@@ -49,3 +49,4 @@ ghost/master/saori/yaya.txt,nonar,noupdate
 ghost/master/saori/ayasaori.aym,nonar,noupdate
 ghost\master\dic_satolist_debug.txt,nonar,noupdate
 ghost/master/PictureResource/stamp.png,nonar,noupdate
+ghost/master/dic_supple_noomlf86w_WLW.txt,nonar,noupdate
