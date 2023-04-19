@@ -66,6 +66,13 @@
 ＊OnInstallComplete「電子世界の虚像」
 ：（０６）…………。
 （１０）「さっきまでの僕」に納得いかなかったのかな？　何度開き直しても「僕」は「僕」にしかならないんだけれど。
+
+＃＃＃インラインイベント
+＊OnInstallComplete「電子世界の虚像/WonderlandWars二次創作トークサプリメント_ver0.5」
+：\_q\f[color,#a9a9a9]\_l[200,130]Supplement_WLW\_q
+\f[color,default]\_l[0,0]（０６）ん……？
+（０５）なんだ、このデータ……？
+（０６）まあ、いいや。ダウンロード完了したよ。
 ＊OnInstallFailure
 ＞OnInstallFailure「（R0）」
 ：（００）インストール失敗。

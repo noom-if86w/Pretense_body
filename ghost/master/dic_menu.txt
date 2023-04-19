@@ -47,6 +47,13 @@
 辞書内整理
 次回更新に向けての準備
 
+・ver1.88.5　04/15
+\q[Supplement「WLW」配布開始,Supplement「WLW」リンク]
+
+・ver1.89　04/19
+ランダムトーク２個追加
+　→カバラ関係
+
 \![*]\q[更新内容の詳細を確認する(URLが開きます),2304詳細確認]
 
 ＞更新履歴一覧2023
@@ -54,6 +61,11 @@
 ＃＃＃インラインイベント
 ＊2303詳細確認
 \j[https://cormeum.kagome-kagome.com/Entry/30/]
+＞更新履歴
+
+＃＃＃インラインイベント
+＊Supplement「WLW」リンク
+\j[https://cormeum.kagome-kagome.com/Entry/31/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
