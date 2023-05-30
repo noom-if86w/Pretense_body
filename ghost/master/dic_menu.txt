@@ -59,13 +59,16 @@ Supple「WLW」ランダムトーク1個追加
 ・ver1.95　05/27
 ランダムトーク１個追加
 
+・ver1.96　05/30
+条件付きランダムトーク１個追加
+
 \![*]\q[更新内容の詳細を確認する(URLが開きます),2305詳細確認]
 
 ＞更新履歴一覧2023
 
 ＃＃＃インラインイベント
 ＊2305詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/32/]
+\j[https://cormeum.kagome-kagome.com/Entry/33/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
