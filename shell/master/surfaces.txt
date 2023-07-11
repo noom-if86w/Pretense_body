@@ -5,7 +5,7 @@ descript
 	version,1
 }
 
-surface0
+surface0,14
 {
 	//素
 	element0,base,surface0.png,0,0
@@ -13,7 +13,7 @@ surface0
 
 
 
-surface1
+surface1,15
 {
 	//目閉じ
 	element0,base,surface0.png,0,0
@@ -111,7 +111,7 @@ surface13
 	element2,overlay,eye_surprise.png,0,0
 }
 
-surface.append0-13
+surface.append0-14
 {
 	//当たり判定
 	collisionex0,Head,polygon,166,89,207,44,267,44,310,89
@@ -121,7 +121,7 @@ surface.append0-13
 	//collision3,167,362,310,408,Underbody
 }
 
-surface.append0,5,7,12,13
+surface.append0,5,7,12,13,14
 {
 	//目開き瞬き
 	animation0.interval,random,3
