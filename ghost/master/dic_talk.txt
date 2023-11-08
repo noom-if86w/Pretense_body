@@ -1130,10 +1130,21 @@ nh（０１）水星。意味する所は知性、知識。
 知識を司る惑星だね。思考の方向性を定める惑星になる。
 nhまた、水星は地球からの見かけ上、いつも太陽の近くにあるという事は覚えていても良いかもしれない。
 
+＃＃＃インラインイベント
+＊
+：\_q\_l[70,@1]\_b[\PictureResource\Sign\Venus.png,inline]
+\_l[120,0]
+\_l[120,@1]公転周期φ：約225日
+\_l[120,@1]\_qｗ９
+nh（０１）金星。意味する所は美、愛。恋愛とかも示すかな。
+（００）価値観、というものが現れる星になる。（０１）感情による
+部分が大きい印象だね。
+（００）また、金星は地球からの見かけ上、太陽の近くにある事は覚えていても良いだろう。
+
 ＃＊
 ＃：\_q\_l[70,@1]\_b[\PictureResource\Sign\Taurus.png,inline]
 ＃
-＃1,Sun,2,Moon,3,Mercury,4,Venus,5,Mars,6,Jupiter,7,Satum,8,Uranus,9,Neptune,10,Pluto,11,Dragonφhead,12,Dragontail
+＃Mars,6,Jupiter,7,Satum,8,Uranus,9,Neptune,10,Pluto,11,Dragonφhead,12,Dragontail
 ＊かばら
 ＃＃＃インラインイベント
 ＊
