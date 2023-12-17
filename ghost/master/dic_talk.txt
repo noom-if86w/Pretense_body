@@ -1181,10 +1181,20 @@ nh（０１）土星。意味する所は忍耐、努力。（００）木星が広がりなら、こっちは狭まる
 ばかりではなくて、現実的な思考という所も関わる。
 （００）現実主義的な要素があると言うべきか。
 
+＃＃＃インラインイベント
+＊
+：\_q\_l[70,@1]\_b[\PictureResource\Sign\Uranus.png,inline]
+\_l[120,0]
+\_l[120,@1]公転周期φ：約84.25年
+\_l[120,@1]\_qｗ９
+nh（０１）天王星。意味としては新しい世界を開拓する……（００）変化の星だ。
+技術の進歩の中に見つかった星……新しき世界に向かう星。（０１）そういう背景がある。
+
+
 ＃＊
 ＃：\_q\_l[70,@1]\_b[\PictureResource\Sign\Taurus.png,inline]
 ＃
-＃Satum,8,Uranus,9,Neptune,10,Pluto,11,Dragonφhead,12,Dragontail
+＃Uranus,9,Neptune,10,Pluto,11,Dragonφhead,12,Dragontail
 ＊かばら
 ＃＃＃インラインイベント
 ＊
