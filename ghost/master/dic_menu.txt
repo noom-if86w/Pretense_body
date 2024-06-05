@@ -43,13 +43,27 @@
 ＊更新履歴一覧2024
 ：\b[2]（０１）\q[←,2312更新履歴]　―――――２０２４年更新履歴―――――　
 
-\q[１,2401更新履歴]　\q[２,2402更新履歴]　\q[３,2403更新履歴]　\q[４,2404更新履歴]　\q[５,更新履歴]　―　―　―　―　―　―　―
+\q[１,2401更新履歴]　\q[２,2402更新履歴]　\q[３,2403更新履歴]　\q[４,2404更新履歴]　\q[５,2405更新履歴]　\q[６,更新履歴]　―　―　―　―　―　―
 
 \![*]\q[その他設定に戻る,他には] / \q[メインメニューに戻る,メインメニュー]
 \![*]\q[閉じる,バルーンを閉じる]
 
 ＃＃＃インラインイベント
 ＊更新履歴
+：\b[2]\_q（０１）・ver1.1.37　24/06/05
+ランダムトーク１個追加
+
+\![*]\q[更新内容の詳細を確認する(URLが開きます),2406詳細確認]
+
+＞更新履歴一覧2024
+
+＃＃＃インラインイベント
+＊2406詳細確認
+\j[https://cormeum.kagome-kagome.com/Entry/48/]
+＞更新履歴
+
+＃＃＃インラインイベント
+＊2405更新履歴
 ：\b[2]\_q（０１）・ver1.1.32　24/05/01
 ランダムトーク２個追加
 
@@ -71,7 +85,7 @@
 
 ＃＃＃インラインイベント
 ＊2405詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/33/]
+\j[https://cormeum.kagome-kagome.com/Entry/48/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
@@ -92,7 +106,7 @@
 
 ＃＃＃インラインイベント
 ＊2404詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/33/]
+\j[https://cormeum.kagome-kagome.com/Entry/47/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
@@ -115,7 +129,7 @@
 
 ＃＃＃インラインイベント
 ＊2403詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/33/]
+\j[https://cormeum.kagome-kagome.com/Entry/46/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
@@ -139,7 +153,7 @@
 
 ＃＃＃インラインイベント
 ＊2402詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/33/]
+\j[https://cormeum.kagome-kagome.com/Entry/45/]
 ＞更新履歴
 
 ＃＃＃インラインイベント
@@ -160,7 +174,7 @@ MD5miss修正
 
 ＃＃＃インラインイベント
 ＊2401詳細確認
-\j[https://cormeum.kagome-kagome.com/Entry/33/]
+\j[https://cormeum.kagome-kagome.com/Entry/43/]
 ＞更新履歴
 
 
